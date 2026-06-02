@@ -8,7 +8,9 @@ It is believed that using this font will get you Excellence in NCEA exams. *(com
 
 This font is a handwritten font based on my own handwriting. Every glyph was hand-drawn by me before being converted into a functional TrueType font by Claude AI. The goal was to create a font that ~~I could use in my Obsidian folder~~ preserves the appearance of my handwritten text while remaining readable in many things.
 
-<img width="2000" height="600" alt="fontimage" src="https://github.com/user-attachments/assets/b2654795-f4fa-4b16-a028-2806c4845b79" /> <img width="2000" height="600" alt="fontimage" src="https://github.com/user-attachments/assets/0e5ddd5e-0c09-4a94-867e-bdf59ddaba90" />
+<img width="700" alt="handwriting" src="https://github.com/user-attachments/assets/c19c30a7-ca21-4543-ac97-50e37b815cfb" /><img width="700" alt="handwriting" src="https://github.com/user-attachments/assets/6a2f79f7-6d19-4837-a40c-bdda1a92021c" />
+
+
 
 ---
 
