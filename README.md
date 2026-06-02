@@ -1,4 +1,4 @@
-# EXCELLENCE
+<img width="2000" height="600" alt="fontimage" src="https://github.com/user-attachments/assets/e747bce2-f124-4326-a4c2-25739332b253" />
 
 Creating a custom font of my own handwriting was always one of my goals. One day, I decided to draw the glyphs myself, then ask Claude AI to turn them into a font (because I do NOT know how to make fonts myself). Surprisingly, it turned out really well.
 
