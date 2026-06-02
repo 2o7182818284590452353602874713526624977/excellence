@@ -1,2 +1,11 @@
-# excellence
-Handwritten font created by Juyoung Park!
+# EXCELLENCE
+
+Creating a custom font of my own handwriting was always one of my goals. One day, I decided to draw the glyphs myself, then ask Claude AI to turn them into a font (because I do NOT know how to make fonts myself). Surprisingly, it turned out really well.
+
+This font is a handwritten font based on my own handwriting. Every glyph was hand-drawn by me before being converted into a functional TrueType font by Claude AI. The goal was to create a font that ~~I could use in my Obsidian folder~~ preserves the appearance of my handwritten text while remaining readable in many things.
+
+This font is licensed under the [CC-BY-NC-ND (Attribution-NonCommercial-NoDerivatives) license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt)
+
+You are free to use, share, or do whatever with this font for non-commercial purposes, provided that appropriate credit is given.
+
+Commercial use is not permitted under this license. However, if you would like to use this font for commercial purposes, please contact me to obtain separate permission. You can contact me on Discord (wndx2) or by email (w2n2d2@gmail.com).
