@@ -17,7 +17,7 @@ This font is a handwritten font based on my own handwriting. Every glyph was han
 
 ---
 
-This font is licensed under the [CC-BY-NC-ND (Attribution-NonCommercial-NoDerivatives) license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt)
+This font is licensed under the [CC-BY-NC-ND (Attribution-NonCommercial-NoDerivatives) license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt).
 
 You are free to use, share, or do whatever with this font for non-commercial purposes, provided that appropriate credit is given.
 
