@@ -4,7 +4,9 @@ Creating a custom font of my own handwriting was always one of my goals. One day
 
 I named it 'Excellence' for absolutely no reason. I like excellence, so I named it that. Don't ever question me about naming stuff.
 
-It is believed that using this font will get you Excellence in NCEA exams. *(complete bs btw)*
+~~It is believed that using this font will get you Excellence in NCEA exams.~~
+
+---
 
 This font is a handwritten font based on my own handwriting. Every glyph was hand-drawn by me before being converted into a functional TrueType font by Claude AI. The goal was to create a font that ~~I could use in my Obsidian folder~~ preserves the appearance of my handwritten text while remaining readable in many things.
 
@@ -20,3 +22,11 @@ This font is licensed under the [CC-BY-NC-ND (Attribution-NonCommercial-NoDeriva
 You are free to use, share, or do whatever with this font for non-commercial purposes, provided that appropriate credit is given.
 
 Commercial use is not permitted under this license. However, if you would like to use this font for commercial purposes, please contact me to obtain separate permission. You can contact me on Discord (wndx2) or by email (w2n2d2@gmail.com).
+
+---
+
+Creator:
+Juyoung (James) Park:
+- [e](https://github.com/2o7182818284590452353602874713526624977)
+- [sleepywndud](https://github.com/sleepywndud)
+- [wndx2](https://github.com/wndx2)
