@@ -2,6 +2,8 @@
 
 Creating a custom font of my own handwriting was always one of my goals. One day, I decided to draw the glyphs myself, then ask Claude AI to turn them into a font (because I do NOT know how to make fonts myself). Surprisingly, it turned out really well.
 
+I named it 'Excellence' for absolutely no reason. I like excellence, so I named it that. Don't ever question me about naming stuff.
+
 This font is a handwritten font based on my own handwriting. Every glyph was hand-drawn by me before being converted into a functional TrueType font by Claude AI. The goal was to create a font that ~~I could use in my Obsidian folder~~ preserves the appearance of my handwritten text while remaining readable in many things.
 
 This font is licensed under the [CC-BY-NC-ND (Attribution-NonCommercial-NoDerivatives) license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt)
